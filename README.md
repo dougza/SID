@@ -1,3 +1,3 @@
 # SID
 
-My code is on the folder /src
+My code is inside the folder /src
